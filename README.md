@@ -1,1 +1,1 @@
-# hello_flask app is used to debug the first Flask App.
+# "hello_flask" app is a start to debug the first Flask App.
